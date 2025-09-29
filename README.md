@@ -43,7 +43,7 @@ scraping_result/
 1. **Clone this repository**
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/jefanno1/llm_new_summarizer.git
 cd <repo-folder>
 ```
 
