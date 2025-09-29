@@ -22,7 +22,7 @@ This project is an end-to-end news summarization pipeline. It fetches the latest
 ## Folder Structure
 
 After running the pipeline, the folder structure looks like:
-
+```
 scraping_result/
 ├─ link_eng_business/
 │ ├─ 2025-09-29/ <- news fetched today
@@ -36,4 +36,4 @@ scraping_result/
 │ ├─ id_sum_Headline_1.txt
 │ ├─ en_sum_Headline_1.txt
 │ └─ ig_posts_with_title.csv
-
+```
