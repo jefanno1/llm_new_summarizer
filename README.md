@@ -1,6 +1,6 @@
-# News Summarizer Pipeline (English Business/World)
+# News Summarizer Pipeline (English Business)
 
-This project is an end-to-end news summarization pipeline. It fetches the latest English business/world news headlines from Google News via **SerpAPI**, selects the most interesting headlines using an LLM, scrapes supporting articles, generates bilingual summaries (Indonesian & English), and creates Instagram-ready posts from English summaries.
+This project is an end-to-end news summarization pipeline. It fetches the latest English business news headlines from Google News via **SerpAPI**, selects the most interesting headlines using an LLM, scrapes supporting articles, generates bilingual summaries (Indonesian & English), and creates Instagram-ready posts from English summaries.
 
 ---
 
