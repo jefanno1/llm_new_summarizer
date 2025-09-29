@@ -37,3 +37,28 @@ scraping_result/
 │ ├─ en_sum_Headline_1.txt
 │ └─ ig_posts_with_title.csv
 ```
+
+## Setup
+
+1. **Clone this repository**
+
+```
+git clone <your-repo-url>
+cd <repo-folder>
+```
+
+2. Create a .env file in the root directory and add your API keys:
+
+```
+SERPAPI_API_KEY=your_serpapi_key_here
+OPENAI_API_KEY=your_openai_key_here
+```
+
+3. Install dependencies
+```
+pip install -r requirements.txt
+```
+4. Run the pipeline
+```
+python news_pipeline_all_in_one.py
+```
