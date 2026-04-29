@@ -4,6 +4,9 @@ This project is an end-to-end news summarization pipeline. It fetches the latest
 
 ---
 
+## Result
+
+![newsletter result](./newsletter.png)
 ## Features
 
 - Fetch top news headlines using SerpAPI.
